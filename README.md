@@ -11,3 +11,5 @@ perintah hingga memilih untuk keluar.
 kontak ditemukan atau tidak ditemukan.
 
 # CONTOH OUTPUT PROGRAM
+![arraylist1](https://github.com/Naufallm/ArrayList/assets/130893000/77550b47-e6c4-4b32-bfc0-26cbf7a33f0c)
+
